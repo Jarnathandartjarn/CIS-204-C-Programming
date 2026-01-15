@@ -1,0 +1,17 @@
+Write a program named Favorites that displays answers to the following questions using print statements:
+
+    What is your name?
+    What is your favorite song?
+    What is your favorite movie?
+    What is your favorite food?
+
+Submit your Favorites.c file for grading.
+
+Sample output based on my favorites (Do not use my favorites, you should include your favorites):
+
+Sample program output
+
+Make sure and include the following comments as the first two lines of your program:
+
+// Your name
+// Chpt 1 PA
