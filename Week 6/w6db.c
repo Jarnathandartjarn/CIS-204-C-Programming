@@ -6,6 +6,9 @@ Assume each input string has less than 50 characters.
 
 /* I added whitespace between the note and the boilerplate. I also left several notes on this to break it down
    and further understand why this code works (or doesn't) */
+   
+// Jonathan Falvo
+// Week 6 Debug Assignment
 
 #include <stdio.h>
 #include <string.h>
