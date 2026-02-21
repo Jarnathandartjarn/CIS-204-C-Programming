@@ -1,6 +1,34 @@
 # CIS-204-C-Programming
 
-## Instructions to submit an assignment
+## cd commands
+### 1. `cd`
+```
+Takes user back to main directory
+```
+### 2. pwd
+```
+present working directory, for seeing which directory you are in
+```
+### 3. ls
+```
+Not fully sure what ls stands for, but it checks to see other files in that particular folder
+```
+### 4. cd "insert folder name here"
+```
+For getting your file into the correct folder and working out of that. Make sure you drag and drop the file into it as well
+```
+
+## GCC commands
+### gcc "filename" -o "filename.0"
+```
+for getting a file compiled and ready for usage
+```
+### ./"filename"
+```
+For "playing" a file in the terminal and seeing how it operates
+```
+
+## For updating github library
 ### 1. `git add . `
 ```
 This adds all of your changes to the current/new commit
