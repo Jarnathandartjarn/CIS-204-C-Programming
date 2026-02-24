@@ -20,7 +20,7 @@ int main() {
     for(i = igCode; i > 0; --i) {
         printf("%d\n", i);
     }
-    printf("Ignition");
+    printf("Ignition\n");
 
     return 0;
 }
